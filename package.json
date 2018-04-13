@@ -1,0 +1,12 @@
+{
+  "name": "make-a-spectacle",
+  "version": "0.1.0",
+  "description": "A single function for allowing you to write modular Spectacle sections like React, but return the arrays Spectacle wants.",
+  "peerDependencies": {
+    "react": ">=16"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:seanmay/make-a-spectacle.git",
+  "author": "Sean May <sean.j.may@gmail.com>",
+  "license": "MIT"
+}
